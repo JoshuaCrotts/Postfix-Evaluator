@@ -1,0 +1,2 @@
+# Postfix-Evaluator
+This is a Postfix equation solver. It works on all cases that I have tested inside of the postfix.txt file. Feel free to add more edge cases if need be. This is a problem from the NC A&amp;T Programming Contest, hosted on April 1, 2017. My partner: Ben Gardner and I were unable to solve this particular problem, as it tested our knowledge on certain data structures such as a Stack that we had not (primarily I) familiarized ourselves with.
